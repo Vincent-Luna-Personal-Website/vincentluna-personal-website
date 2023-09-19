@@ -1,0 +1,44 @@
+.links{
+    float: right;
+}
+.name{
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color:rgb(229, 146, 4)
+}
+.about{
+    font-size: 30px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mission{
+    font-size: 30px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+}
+img{
+    float: left;
+    width: 500px;
+    height: 500px;
+}
+.positioning{
+    position: absolute;
+    width: 70%;
+    right: 15%;
+    top: 25%;
+    font-size: x-large;
+
+}
